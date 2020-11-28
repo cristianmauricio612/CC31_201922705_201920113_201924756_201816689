@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture.png</file>
+        <file>avatar - square.png</file>
+    </qresource>
+</RCC>
